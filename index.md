@@ -1,4 +1,6 @@
-# Temario del curso de Python  
+# Curso de Python  
+
+#### Temario
 
 1 Introducción a Python (2 horas)
 * Ejemplo de análisis exploratorio
@@ -16,6 +18,6 @@
 
 4 Pandas (8 horas)
 * Pandas
-* Manipulación de datos
+* Manipulación de datos [DataCamp](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf)
 
 5 Visualización de datos (6 horas)
